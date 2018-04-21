@@ -12,4 +12,7 @@ type goal=Goal of atom list;;
 
 
 
+(*http://cfbolz.de/Bolz2007-Bachelorarbeit.pdf*)
+
+
 
